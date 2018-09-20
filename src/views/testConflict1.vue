@@ -1,6 +1,6 @@
-<template>
+﻿<template>
   <div>
-法律法规页面
+    测试冲突111111
 
 
   </div>
